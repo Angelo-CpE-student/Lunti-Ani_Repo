@@ -25,7 +25,7 @@ export default function Dashboard() {
       <div className="mx-auto max-w-3xl px-5 pt-6 md:px-8">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-2 font-display text-xl font-semibold text-ink md:hidden">
-            <LeafIcon size={22} className="text-field" /> CropSafe
+            <LeafIcon size={22} className="text-field" /> LuntiAni
           </div>
           <button
             onClick={() => navigate("/notifications")}
